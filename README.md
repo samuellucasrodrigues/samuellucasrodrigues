@@ -11,10 +11,11 @@ Sou estudante de **Ciência da Computação** na **Pontifícia Universidade Cat�
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellucasrodrigues&layout=compact&langs_count=8&theme=dracula" />
 </a>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samuellucasrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
-
+<br>
 <a href="https://git.io/streak-stats">
   <img height="160" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=samuellucasrodrigues&theme=dracula" />
   </a>

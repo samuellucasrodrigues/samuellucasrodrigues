@@ -1,50 +1,77 @@
 <div align="left">
 
-### Olá! Me chamo Samuel Lucas Rodrigues Vieira 👋
+### Olá! Me chamo Samuel Lucas 👋
 
-Sou estudante de **Ciência da Computação** na **Pontifícia Universidade Católica de Minas Gerais (PUC Minas)** e tenho **20 anos**. Apaixonado por tecnologia e por criar experiências na web.
+<p align="left">
+  Estudante de <strong>Ciência da Computação</strong> na PUC-Minas, focado em se tornar desenvolvedor web Fullstack. Tenho direcionado meus estudos para <strong>React</strong>, <strong>Java</strong> e <strong>C</strong>, aplicando cada aprendizado em projetos práticos que fortalecem minha jornada em programação. <br><br>
+  Busco criar soluções modernas, funcionais e com propósito, sempre com a mentalidade de aprender construindo.
+</p>
+
+## Sobre mim
+
+- 🎓 Estudante de **Ciência da Computação** na **PUC-Minas**
+- 💻 Focado em **desenvolvimento Fullstack** com React, Java e C
+- 📈 Buscando evoluir constantemente por meio de projetos práticos
+- 🧠 Mentalidade: transformar teoria em prática
 
 ---
 
-### Estatísticas
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellucasrodrigues&layout=compact&langs_count=8&theme=dracula" />
-</a>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samuellucasrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+
+
+
+<img src="./assets/computer.png" alt="laptop" width="400" align="right"/>
+
+<p align="left"> Atualmente curso <strong>Ciência da Computação</strong> na PUC-Minas e sigo construindo meu caminho na área de <strong>Desenvolvimento Fullstack</strong>. <br><br> Tenho dedicado meus estudos a <strong>React</strong> no front-end e a linguagens como <strong>Java</strong> e <strong>C</strong> no back-end, sempre reforçando minha base em lógica e fundamentos de programação. Além disso, gosto de explorar novas ferramentas e tecnologias, aplicando cada aprendizado em projetos pessoais e acadêmicos. <br><br> Vejo a prática como a melhor forma de evoluir: transformar ideias em código e desafios em oportunidades de crescimento 🚀 </p>
+
+###
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuellucasrodrigues/samuellucasrodrigues/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuellucasrodrigues/samuellucasrodrigues/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samuellucasrodrigues/samuellucasrodrigues/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+## ⭐ GitHub Stats
+
+<a href="https://github.com/samuellucasrodrigues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuellucasrodrigues&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellucasrodrigues&layout=compact&langs_count=6&theme=ocean_dark"/>
 </a>
-<br>
-<a href="https://git.io/streak-stats">
-  <img height="160" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=samuellucasrodrigues&theme=dracula" />
-  </a>
+
 
 ---
 
-### Techs
+## 💻 Tecnologias e linguagens 
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,js)](https://skillicons.dev)
 
----
+### 🚀 Frameworks e bibliotecas
 
-### IDE's
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite)](https://skillicons.dev)
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" alt="IntelliJ IDEA" width="40" height="40" />
-</div>
+### 🛠️ Ferramentas de desenvolvimento
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
 
 ---
 
-### Entre em contato
+### 📩 Entre em contato!
 
-- **LinkedIn**: <a href="https://www.linkedin.com/in/samuelrvieira" target="_blank">linkedin.com/in/samuelrvieira</a>
-- **E-mail**: <a href="mailto:samuel.rod.vieira@gmail.com">samuel.rod.vieira@gmail.com</a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samuelrvieira) [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=samuel.rod.vieira@gmail.com)
+
+
+
+<div align="center">
+  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuellucasrodrigues&bg_color=282c34&color=ffffff&line=764A9B&point=9B68C5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=samuellucasrodrigues&theme=ocean-dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_height=170)](https://git.io/streak-stats) <br/>
+
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:764A9B,100:9B68C5"/>

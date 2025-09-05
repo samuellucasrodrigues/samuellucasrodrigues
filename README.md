@@ -47,15 +47,15 @@
 
 ## 💻 Tecnologias e linguagens 
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,js,ts)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,tailwind)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,eclipse)](https://skillicons.dev)
 
 ---
 

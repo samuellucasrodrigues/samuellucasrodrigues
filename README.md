@@ -37,41 +37,39 @@
 
 ## ⭐ GitHub Stats
 
-<a href="https://github.com/samuellucasrodrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuellucasrodrigues&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuellucasrodrigues&layout=compact&langs_count=6&theme=ocean_dark"/>
-</a>
+<div align="center">
 
+<table>
+  <tr>
+    <td><a href="https://github-stats-extended.vercel.app/api?username=samuellucasrodrigues&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple"><img src="https://github-stats-extended.vercel.app/api?username=samuellucasrodrigues&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" /></a></td>
+    <td><a href="https://github-stats-extended.vercel.app/api/top-langs?username=samuellucasrodrigues&layout=donut&hide_values=true&theme=midnight-purple"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=samuellucasrodrigues&layout=donut&hide_values=true&theme=midnight-purple" alt="Top Langs" /></a></td>
+  </tr>
+</table>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuellucasrodrigues&theme=dracula)](https://github.com/samuellucasrodrigues/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=samuellucasrodrigues&theme=ocean-dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_height=170)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 ## 💻 Tecnologias e linguagens 
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,c,css,ts,java,js,html)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,react,vite)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,git,gitlab,figma,docker,vscode,postgres,eclipse,visualstudio,github,unity)](https://skillicons.dev)
 
 ---
 
 ### 📩 Entre em contato!
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samuelrvieira) [![My Skills](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=samuel.rod.vieira@gmail.com)
-
-
-
-<div align="center">
-  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samuellucasrodrigues&bg_color=282c34&color=ffffff&line=764A9B&point=9B68C5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=samuellucasrodrigues&theme=ocean-dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_height=170)](https://git.io/streak-stats) <br/>
-
-
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:764A9B,100:9B68C5"/>

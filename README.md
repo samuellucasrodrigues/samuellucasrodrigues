@@ -39,14 +39,12 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td><a href="https://github-stats-extended.vercel.app/api?username=samuellucasrodrigues&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple"><img src="https://github-stats-extended.vercel.app/api?username=samuellucasrodrigues&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" /></a></td>
-    <td><a href="https://github-stats-extended.vercel.app/api/top-langs?username=samuellucasrodrigues&layout=donut&hide_values=true&theme=midnight-purple"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=samuellucasrodrigues&layout=donut&hide_values=true&theme=midnight-purple" alt="Top Langs" /></a></td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=samuellucasrodrigues&rank_icon=github&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=samuellucasrodrigues&layout=donut&hide_values=true&theme=midnight-purple" alt="Top Langs" />
+</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samuellucasrodrigues&theme=dracula)](https://github.com/samuellucasrodrigues/github-readme-activity-graph)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuellucasrodrigues&theme=dracula" alt="Activity Graph" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=samuellucasrodrigues&theme=ocean-dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_height=170)](https://git.io/streak-stats)
 
